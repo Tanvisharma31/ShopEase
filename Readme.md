@@ -84,8 +84,3 @@ To prevent abuse and fraud:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Instructions:
-
-1. **Replace Placeholder Links**: Update `path/to/promo_codes_design_diagram.png` and `path/to/referrals_design_diagram.png` with the actual paths or URLs to your architecture diagrams.
-2. **Update Repository URL**: Replace `https://github.com/TanviSharma31/shopease.git` with the URL of your actual GitHub repository.
