@@ -4,7 +4,7 @@
 ShopEase is an e-commerce application designed to handle promo codes and referrals to enhance user engagement and boost sales.
 
 ## Architecture Design
-![Architecture Diagram](/architecture.png)
+![Architecture Diagram](/Architecture.png)
 ### Promo Codes
 Promo codes in ShopEase are created via the `/api/promocodes` endpoint by administrators. These codes can offer discounts as either a percentage or a fixed amount. Promo codes can have expiry dates and usage limits to control their validity and applicability.
 
